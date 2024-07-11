@@ -8,8 +8,9 @@ Incorporating CAD (Computer-Aided Design) courses into the curriculum adds an es
 ### Year 1: Foundations
 
 #### Semester 1: Basics and Mathematics
-- [**Introduction to Mechanical Engineering** (Edx)](https://www.edx.org/learn/engineering/brown-university-introduction-to-engineering-and-design?index=product&queryID=b050037a1f5a980af8c9b368f723fd1d&position=1&results_level=second-level-results&term=Introduction+to+Mechanical+Engineering&objectID=course-8a479edd-1ad4-4c25-aa3a-aa1950fd943c&campaign=Introduction+to+Engineering+and+Design&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)
-- [**Introduction to Electrical Engineering** (Edx)](https://www.edx.org/learn/electrical-engineering/tokyo-institute-of-technology-introduction-to-electrical-and-electronic-engineering-dian-qi-dian-zi-gong-xue-ru-men?index=product&queryID=4e13adf618521a6deed3156bd047fc85&position=1&results_level=second-level-results&term=Introduction+to+Electrical+Engineering&objectID=course-3b607bcc-08ed-432b-9d98-09946ce63e83&campaign=Introduction+to+Electrical+and+Electronic+Engineering+-+%E9%9B%BB%E6%B0%97%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6%E5%85%A5%E9%96%80+-&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)
+- [**Introduction to Engineering & Design** (Course retired)](https://www.edx.org/learn/engineering/brown-university-introduction-to-engineering-and-design?index=product&queryID=ed88183418f809e1d5ac8e92373337a3&position=1&results_level=first-level-results&term=Introduction+to+Engineering+and+Design&objectID=course-8a479edd-1ad4-4c25-aa3a-aa1950fd943c&campaign=Introduction+to+Engineering+and+Design&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)
+- [**Introduction to Engineering & Design** (Coursera)](https://www.coursera.org/learn/introduction-to-engineering-design)
+- [**Introduction to Engineering** (Youtube)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO4A_tL6DLZRotxEb114cMR)
 - [**Calculus I** (MIT OCW)](https://ocw.mit.edu/courses/18-01-calculus-i-single-variable-calculus-fall-2020/)
 - [**Physics I: Classical Mechanics** (MIT OCW)](https://ocw.mit.edu/courses/8-012-physics-i-classical-mechanics-fall-2008/)
 
